@@ -10,6 +10,8 @@ namespace NoProcessConsole
 	{
 		static void Main(string[] args)
 		{
+			//get all processes
+			
 		}
 	}
 }
